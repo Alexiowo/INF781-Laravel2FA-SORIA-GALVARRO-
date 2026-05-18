@@ -80,5 +80,7 @@ php artisan serve
 ```
 
 ## FInstalar el proyecto 
+```bash
 composer install
 npm install
+```
